@@ -1,0 +1,7 @@
+{
+  "name": "OCR_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
